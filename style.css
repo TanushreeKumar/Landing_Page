@@ -85,7 +85,7 @@ nav ul li a:hover { color: #A47148; }
 /* ===== Hero Section ===== */
 .hero-section {
   height: 100vh;
-  background: url('backgroundpic.jpg') center/cover no-repeat;
+  background: url('picture/backgroundpic.jpg') center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -307,3 +307,4 @@ footer {
   .testimonial-grid, .offer-grid, .blog-posts { flex-direction: column; }
   .flower-item, .testimonial-item, .offer-item, .blog-post { max-width: 300px; }
 }
+
